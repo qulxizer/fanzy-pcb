@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "a7369ea1-1643-439c-9501-4c58ef215513")
 	(paper "A4")
+	(title_block
+		(title "Fanzy - By Mahdi Husain")
+		(date "2026-06-12")
+		(rev "V2.0")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
 			(pin_names
