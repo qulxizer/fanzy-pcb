@@ -485,12 +485,12 @@
   "pcbnew": {
     "last_paths": {
       "gencad": "",
-      "idf": "",
+      "idf": "fanzy-pcb.emn",
       "netlist": "",
       "plot": "pcb/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "fanzy-pcb.stl",
+      "step": "pcb/fanzy-pcb.step",
       "svg": "",
       "vrml": "fanzy-pcb.wrl"
     },
